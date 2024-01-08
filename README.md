@@ -1,1 +1,1 @@
-# qt-jan-2024
+# Qt & QML Training
