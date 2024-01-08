@@ -48,6 +48,16 @@
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
 
+## What is MOC?
+- Meta Object Compiler
+- is a tool that is part of Qt Framework toolchain
+- It processes Qt C++ source files that contain Qt specific macros like Q_OBJECT` macro
+- MOC generates standard C++ code with meta-information from these macros, enabling features like:
+  - Signals and Slots: Qt's mechanism for event handling and inter-object communication
+  - Run-Time Type Information: Enhanced type information used in Qt
+  - Dynamic Property System: Allows properties to be added to and manipulated in Qt objects at runtime
+- MOC plays a crucial role in enabling some of Qt's powerful features that are not natively supported by C++.
+
 ## Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
