@@ -70,14 +70,21 @@ Click on "Create Project"
 Select "Qt Widgets Application" and click on "Choose" button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/639fdaa2-45f6-44fd-8b5e-bf86975ed8b8)
 
+
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6984116c-b2b2-4f92-b297-bc2e65f4d4d4)
+
+
 
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1af32032-1e76-436a-ab3c-a048083c126e)
 
+
+
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c4e3cfc3-c252-45cb-90c0-5aacf38af3ba)
+
+
 
 Click on Finish button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f1c58920-24bd-45d2-b140-efd9d42cf6df)
