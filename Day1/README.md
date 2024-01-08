@@ -41,13 +41,6 @@
 - support developing cross-platform applications that works on desktop, mobile and embedded systems
 - seamless integration with C++ and Qt Widgets
 
-## What is Qt Creator?
-- is an Integrated Development Environment (IDE) for Qt application development
-- can write code, build, debug and run Qt applications
-- helps developing Qt Widget based applications and QML applications
-
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
-
 ## What is MOC?
 - Meta Object Compiler
 - is a tool that is part of Qt Framework toolchain
@@ -57,6 +50,41 @@
   - Run-Time Type Information: Enhanced type information used in Qt
   - Dynamic Property System: Allows properties to be added to and manipulated in Qt objects at runtime
 - MOC plays a crucial role in enabling some of Qt's powerful features that are not natively supported by C++.
+
+## What is Qt Creator?
+- is an Integrated Development Environment (IDE) for Qt application development
+- can write code, build, debug and run Qt applications
+- helps developing Qt Widget based applications and QML applications
+
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
+
+
+## Lab - Developing a hello world Qt Widget application
+
+Launch your Qt Creator IDE
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
+
+Click on "Create Project"
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/01c16f21-cd44-41ac-aef7-bbccc8006d94)
+
+Select "Qt Widgets Application" and click on "Choose" button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/639fdaa2-45f6-44fd-8b5e-bf86975ed8b8)
+
+Click on Next button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e278f7c0-007b-4c9a-a316-6f01fb2aa7cb)
+
+Click on Next button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6984116c-b2b2-4f92-b297-bc2e65f4d4d4)
+
+Click on Next button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1af32032-1e76-436a-ab3c-a048083c126e)
+
+Click on Next button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c4e3cfc3-c252-45cb-90c0-5aacf38af3ba)
+
+Click on Finish button
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f1c58920-24bd-45d2-b140-efd9d42cf6df)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/fc734b79-f1e6-46f9-b823-a6a10c9a6aae)
 
 ## Lab - Signal and Slots
 
