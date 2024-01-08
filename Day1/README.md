@@ -33,13 +33,20 @@
   - Data Visualization Tools
 
 ## What is QML?
-- helps in developing fluid GUI applications with Javascript like lange
+- part of Qt Framework
+- helps in developing fluid GUI applications with Javascript like language
 - QML is JavaScript with Qt extensions
+- supports declarative syntax
+- supports simple animation and touch-enabled applications
+- support developing cross-platform applications that works on desktop, mobile and embedded systems
+- seamless integration with C++ and Qt Widgets
 
 ## What is Qt Creator?
 - is an Integrated Development Environment (IDE) for Qt application development
 - can write code, build, debug and run Qt applications
 - helps developing Qt Widget based applications and QML applications
+
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
 
 ## Lab - Signal and Slots
 
