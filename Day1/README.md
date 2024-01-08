@@ -60,7 +60,6 @@
 
 
 ## Lab - Developing a hello world Qt Widget application
-
 Launch your Qt Creator IDE
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
 
@@ -73,18 +72,26 @@ Select "Qt Widgets Application" and click on Choose button
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6984116c-b2b2-4f92-b297-bc2e65f4d4d4)
 
-
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1af32032-1e76-436a-ab3c-a048083c126e)
-
 
 Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c4e3cfc3-c252-45cb-90c0-5aacf38af3ba)
 
-
 Click on Finish button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f1c58920-24bd-45d2-b140-efd9d42cf6df)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/fc734b79-f1e6-46f9-b823-a6a10c9a6aae)
+
+hello.pro
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/2330ebdf-2d01-4f2f-8ac6-54324ac5ffcb)
+
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/ef6c4246-c9d4-4338-82af-9059d0758cf4)
+
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/27a132b4-4216-44c9-aa5f-44d19ff77a81)
+
+
 
 ## Lab - Signal and Slots
 
