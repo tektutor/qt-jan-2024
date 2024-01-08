@@ -98,7 +98,7 @@ Save all files by pressing Ctrl+Shift+S
 Build your Qt application by pressing Ctrl+B
 
 Run your Qt application by pressing Ctrl+R
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6bc1cfef-d52a-4672-af76-d38c0cdc503f)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/cbf0204a-b6cb-4541-88c2-02b671e33609)
 
 ## Lab - Signal and Slots
 
