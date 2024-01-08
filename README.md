@@ -1,4 +1,4 @@
-# Qt & QML Training
+# Qt & QML Training ( January 2024 )
 
 ## Software requirements
 
