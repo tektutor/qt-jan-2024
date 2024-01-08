@@ -88,12 +88,17 @@ hello.pro
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/2330ebdf-2d01-4f2f-8ac6-54324ac5ffcb)
 
 dialog.h
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/ef6c4246-c9d4-4338-82af-9059d0758cf4)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/57f007f5-3374-4df7-a94f-6b190fbf7af7)
 
 dialog.cpp
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/27a132b4-4216-44c9-aa5f-44d19ff77a81)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/547863d8-86ca-4da1-8d56-875fe383f013)
 
+Save all files by pressing Ctrl+Shift+S
 
+Build your Qt application by pressing Ctrl+B
+
+Run your Qt application by pressing Ctrl+R
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6bc1cfef-d52a-4672-af76-d38c0cdc503f)
 
 ## Lab - Signal and Slots
 
