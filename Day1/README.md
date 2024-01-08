@@ -80,6 +80,8 @@ Click on Next button
 
 Click on Finish button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f1c58920-24bd-45d2-b140-efd9d42cf6df)
+
+main.cpp
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/fc734b79-f1e6-46f9-b823-a6a10c9a6aae)
 
 hello.pro
