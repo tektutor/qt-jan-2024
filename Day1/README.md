@@ -71,9 +71,6 @@ Select "Qt Widgets Application" and click on "Choose" button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/639fdaa2-45f6-44fd-8b5e-bf86975ed8b8)
 
 Click on Next button
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e278f7c0-007b-4c9a-a316-6f01fb2aa7cb)
-
-Click on Next button
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/6984116c-b2b2-4f92-b297-bc2e65f4d4d4)
 
 Click on Next button
