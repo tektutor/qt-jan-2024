@@ -2,7 +2,7 @@
 
 ## What is Qt?
 - Qt is C++ GUI Framework
-- this is a cross-platform framework that supports Linux, Windows, Mac OS-X, Android, ios, Embedded Systems
+- cross-platform framework that supports Linux, Windows, Mac OS-X, Android, ios, Embedded Systems
 - developed by the Qt company
 - Qt framework is available in 2 flavours
   - Qt Opensource
