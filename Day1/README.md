@@ -59,7 +59,7 @@
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
 
 
-## Lab - Developing a hello world Qt Widget application
+## ⛹️‍♀️ Lab - Developing a hello world Qt Widget application
 Launch your Qt Creator IDE
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f684632a-99f3-4b3d-b8b2-a614d8a71b1f)
 
@@ -100,7 +100,7 @@ Build your Qt application by pressing Ctrl+B
 Run your Qt application by pressing Ctrl+R
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/cbf0204a-b6cb-4541-88c2-02b671e33609)
 
-## Lab - Signal and Slots
+## ⛹️‍♂️ Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3ae414c4-366a-416c-be71-3ec8ceff037f)
