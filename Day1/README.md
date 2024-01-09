@@ -315,9 +315,42 @@ You could apply different colors to your buttons as shown below in dialog.cpp
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/4150643b-95ae-4841-8d4b-daa60deef980)
 
-
 ## ⛹️‍♂️ Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3ae414c4-366a-416c-be71-3ec8ceff037f)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/ab7b72cd-09a3-4a5f-8f36-2bd0dd4766d3)
+
+## ⛹️‍♂️ Lab - Stacked Layout
+
+This lab exercise will demonstrates, 
+- how QStackedLayout arranges its child widgets one over the other in a stack like fashion
+- how to switch between different dialogs within the QStackedLayout
+
+Let's now create a new project of type Qt widget applicaiton 
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
+
+Project Location
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/87544e7a-b47f-4341-84f8-7806f9cbe82e)
+
+Define Build System
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
+
+Class Information
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/8fbdd063-74a9-4e6d-8e8b-7b98dc52e5f2)
+
+Translation File
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
+
+Kit Selection
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e98cec00-aaa6-4f0d-877a-1341b1ef6e68)
+
+Project Management
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1f12600b-81ea-4220-b317-382dd4b1ab34)
+
+dialog.h
+
+dialog.cpp
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/0ab6e4b0-4cbd-49bd-8a4b-1c9db17e54bb)
