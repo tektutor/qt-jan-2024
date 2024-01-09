@@ -239,7 +239,7 @@ Build and Run your application to observe Button1, Button2 and Button3 are arran
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/273c1182-0c7f-443d-8015-ea0f62f4ef24)
 
 
-## ⛹️‍♂️ Lab - Right Aligned Buttons
+## ⛹️‍♂️ Lab - Box Layout with Right Aligned Buttons
 
 This lab exercise will demonstrate, how QBoxLayout could be configured to right align or left align its child widgets.
 
@@ -272,6 +272,40 @@ dialog.cpp
 
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/debb0899-8399-4650-b166-c1166d8199f4)
+
+## ⛹️‍♂️ Lab - Grid Layout
+
+This lab exercise will demonstrate, how QGridLayout arranges its child widgets in a tabular format in different rows and columns.
+
+Let's now create a new project of type Qt widget applicaiton 
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
+
+Project Location
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c7e0c6ee-9a22-45b8-8c4e-70b38544aa3c)
+
+Define Build System
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
+
+Class Information
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/8fbdd063-74a9-4e6d-8e8b-7b98dc52e5f2)
+
+Translation File
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
+
+Kit Selection
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/d94a5d61-24fc-46be-b837-85de3f78d604)
+
+Project Management
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/7af06b49-d4a6-4670-8c94-cd1fb45960dd)
+
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e8d99c70-c5a0-4fc6-b4df-9de91f3fbc1a)
+
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c9248ebb-f823-47ec-8dd8-5a385f0c5a89)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/bee3453e-c0e2-4b1b-ad35-37bd6091208d)
 
 
 ## ⛹️‍♂️ Lab - Signal and Slots
