@@ -345,12 +345,10 @@ Translation File
 Kit Selection
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e98cec00-aaa6-4f0d-877a-1341b1ef6e68)
 
+Rename dialog.h and dialog.cpp as main  
+
 Project Management
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1f12600b-81ea-4220-b317-382dd4b1ab34)
-
-dialog.h
-
-dialog.cpp
 
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/0ab6e4b0-4cbd-49bd-8a4b-1c9db17e54bb)
