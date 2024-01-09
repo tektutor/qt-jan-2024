@@ -135,6 +135,7 @@ main.cpp
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/bc3cbf3b-65c9-45e9-bd0f-273e1fd4ded3)
 
 Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/0cb3063f-5f8a-4dcb-95a6-ac312c702f5f)
 
 ## ⛹️‍♂️ Lab - Signal and Slots
 
