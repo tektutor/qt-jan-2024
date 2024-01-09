@@ -100,7 +100,10 @@ Build your Qt application by pressing Ctrl+B
 Run your Qt application by pressing Ctrl+R
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/cbf0204a-b6cb-4541-88c2-02b671e33609)
 
-## Lab - Horizontal Box Layout
+## ⛹️‍♂️ Lab - Horizontal Box Layout
+
+This lab exercise will demonstrate, how the Horizontal Box Layout manager arranges its child widgets in a left to right fashion within a row.
+
 Create a new project of type Qt widget applicaiton 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
 
@@ -122,7 +125,16 @@ Kit Selection
 Project Management
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/959d4416-c3bb-4915-bb4b-c9147bb842de)
 
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3c0e1e5a-06a3-4428-9855-f159470adf85)
 
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/386fa057-f6a2-44a4-8250-4fca9cafebc6)
+
+main.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/bc3cbf3b-65c9-45e9-bd0f-273e1fd4ded3)
+
+Build and Run your application
 
 ## ⛹️‍♂️ Lab - Signal and Slots
 
