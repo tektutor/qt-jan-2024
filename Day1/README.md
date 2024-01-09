@@ -144,7 +144,7 @@ Create a new project of type Qt widget applicaiton
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
 
 Project Location
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/fe1fd6f9-430c-4ee4-af33-1617e0f83113)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e5c40d51-2910-4a11-8a31-f67aff9ef419)
 
 Define Build System
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
@@ -156,10 +156,19 @@ Translation File
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
 
 Kit Selection
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/05f12fd5-744f-44b0-b266-869a4f6f9706)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/2bc0bd80-b38e-4fd3-acef-04880bbe9f36)
 
 Project Management
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/959d4416-c3bb-4915-bb4b-c9147bb842de)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f5701d19-6024-40f7-baea-cf3d2f6c3da0)
+
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/63b9dd5a-8f94-4b10-9b55-8cd1e1c68f7a)
+
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/a44c3de5-8770-478f-bcfb-6b2f26e82235)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e43c430b-1efb-429e-86a0-40c22b2afd7f)
 
 
 ## ⛹️‍♂️ Lab - Signal and Slots
