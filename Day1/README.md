@@ -170,6 +170,12 @@ dialog.cpp
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e43c430b-1efb-429e-86a0-40c22b2afd7f)
 
+QPushButton has its own default preferred size policy, which expands/shrinks only horizontally when the window size is resized.  By default, QPushButton will not expand vertically, but we could override the size policy as shown below in dialog.cpp.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/39c20eda-3cb0-47cc-8f69-45c145f3d91b)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/d2fc8c68-abb3-49e0-9c79-1dc078dd2719)
+
 
 ## ⛹️‍♂️ Lab - Signal and Slots
 
