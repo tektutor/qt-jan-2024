@@ -33,4 +33,4 @@ You need to update the main.cpp as shown below
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/125133f6-8f62-433d-a232-fb11ef522214)
 
 Your main.qml file looks as shown below
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/358f64f6-b5e6-465c-a850-2da1db3e4c77)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/a8a6512a-10e9-48e4-b6d1-6fe7cf558376)
