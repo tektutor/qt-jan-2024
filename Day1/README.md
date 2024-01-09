@@ -301,7 +301,7 @@ Project Management
 dialog.h
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e8d99c70-c5a0-4fc6-b4df-9de91f3fbc1a)
 
-Grid Layout also supports widgets occupy multiple rows and columns.  It is not necessary that all widgets in GridLayout to be of same size.  In other words, every widget could decide how many cells they would like to use within in the Grid Layout by configuring the row and column spanning as shown in dialog.cpp below.
+Grid Layout also supports widgets occupy multiple rows and columns.  It is not necessary that all widgets in GridLayout to be of same size.  In other words, every widget could decide how many cells they would like to use within the Grid Layout by configuring the row and column spanning as shown in dialog.cpp below.
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3209db05-be8b-4296-8197-85f9a5a6f1fa)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3e009871-9d55-4e1c-9f0a-c854d1d4241b)
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/d810bbc5-0938-4fe4-be4a-26862ff75289)
