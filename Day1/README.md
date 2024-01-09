@@ -190,12 +190,11 @@ QBoxLayout::BottomToTop
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/4d1fd969-67e4-4b83-a807-b455d438b808)
 
 
-
-Create a new project of type Qt widget applicaiton 
+Let's now create a new project of type Qt widget applicaiton 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
 
 Project Location
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e5c40d51-2910-4a11-8a31-f67aff9ef419)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/0e769087-ea42-47e1-a268-0cd552311450)
 
 Define Build System
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
@@ -207,16 +206,27 @@ Translation File
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
 
 Kit Selection
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/2bc0bd80-b38e-4fd3-acef-04880bbe9f36)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/bbedd23e-2158-4da1-9a4a-5565dacc78e4)
 
 Project Management
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f5701d19-6024-40f7-baea-cf3d2f6c3da0)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/47be78bf-8c20-4dae-9592-b6087d5e64fd)
 
 dialog.h
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/63b9dd5a-8f94-4b10-9b55-8cd1e1c68f7a)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/29d511d1-9959-40ec-9492-97bbb3e9f302)
 
 dialog.cpp
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/a44c3de5-8770-478f-bcfb-6b2f26e82235)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c02a3f5c-b486-4d5d-b9ae-6869904a03ff)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/9d9e2ce5-5077-4293-9bbb-69e2b7e9fe14)
+
+Now, let's modify the dialog.cpp as shown below to instruct box layout arrange the buttons in right to left fashion.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1aa95c0c-1979-4f34-87b5-f4c113b9ccf0)
+
+Build and Run your application to observer button3 appears first, i.e buttons are arrange in right to left fashion.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/9a51c5d3-6079-47b1-950f-fc555335ca09)
+
+
 
 ## ⛹️‍♂️ Lab - Signal and Slots
 
