@@ -223,9 +223,20 @@ Build and Run your application
 Now, let's modify the dialog.cpp as shown below to instruct box layout arrange the buttons in right to left fashion.
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1aa95c0c-1979-4f34-87b5-f4c113b9ccf0)
 
-Build and Run your application to observer button3 appears first, i.e buttons are arrange in right to left fashion.
+Build and Run your application to observe Button3 appears first, i.e buttons are arranged in right to left fashion.
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/9a51c5d3-6079-47b1-950f-fc555335ca09)
 
+Now, let's modify the dialog.cpp as shown below to instruct box layout arrange the buttons in top to bottom fashion.  This works just like QVBoxLayout.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/563b6cb3-477f-4a72-8210-65a78a1cf41b)
+
+Build and Run your application to observe Button1, Button2 and Button3 are arranged in Top to Bottom fashion respectively.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/cce7b14f-4322-45bf-bad1-95156dee9293)
+
+Now, let's modify the dialog.cpp as shown below to instruct box layout arrange the buttons in Bottom to Top fashion.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/345142eb-5c2c-4a40-bbcf-0143a972789e)
+
+Build and Run your application to observe Button1, Button2 and Button3 are arranged in Bottom to Top fashion respectively.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/273c1182-0c7f-443d-8015-ea0f62f4ef24)
 
 
 ## ⛹️‍♂️ Lab - Signal and Slots
