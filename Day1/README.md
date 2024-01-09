@@ -239,6 +239,41 @@ Build and Run your application to observe Button1, Button2 and Button3 are arran
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/273c1182-0c7f-443d-8015-ea0f62f4ef24)
 
 
+## ⛹️‍♂️ Lab - Right Aligned Buttons
+
+This lab exercise will demonstrate, how QBoxLayout could be configured to right align or left align its child widgets.
+
+Let's now create a new project of type Qt widget applicaiton 
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
+
+Project Location
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/aecb33ee-e0ff-4bfb-a0f6-0f9dbe5e9822)
+
+Define Build System
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
+
+Class Information
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/8fbdd063-74a9-4e6d-8e8b-7b98dc52e5f2)
+
+Translation File
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
+
+Kit Selection
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3677dfbd-260f-488f-8656-ec7e52ee11ce)
+
+Project Management
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/d5a4e93d-0ce2-4965-a8a9-d9fe61178dc7)
+
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/730344a3-8164-4618-a2a5-3bcdba2b584e)
+
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/231be778-e834-4393-9698-ff38483672b8)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/debb0899-8399-4650-b166-c1166d8199f4)
+
+
 ## ⛹️‍♂️ Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
