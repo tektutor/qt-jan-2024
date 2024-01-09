@@ -309,6 +309,13 @@ Grid Layout also supports widgets occupy multiple rows and columns.  It is not n
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/0ab6e4b0-4cbd-49bd-8a4b-1c9db17e54bb)
 
+You could apply different colors to your buttons as shown below in dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/47436640-7059-4401-bd18-d66eca36475d)
+
+Build and Run your application
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/4150643b-95ae-4841-8d4b-daa60deef980)
+
+
 ## ⛹️‍♂️ Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
