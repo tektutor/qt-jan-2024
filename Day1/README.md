@@ -176,6 +176,36 @@ QPushButton has its own default preferred size policy, which expands/shrinks onl
 Build and Run your application
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/d2fc8c68-abb3-49e0-9c79-1dc078dd2719)
 
+## ⛹️‍♂️ Lab - 
+This lab exercise will demonstrate, the features supported by Box Layout manager.  Actually, the QHBoxLayout and QVBoxLayout are just convenient classes with fixed orientation while Box Layout is their base class.
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3bbc0643-a75b-4437-8ad0-ef6ae8da7fa7)
+
+Create a new project of type Qt widget applicaiton 
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
+
+Project Location
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/e5c40d51-2910-4a11-8a31-f67aff9ef419)
+
+Define Build System
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
+
+Class Information
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/8fbdd063-74a9-4e6d-8e8b-7b98dc52e5f2)
+
+Translation File
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
+
+Kit Selection
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/2bc0bd80-b38e-4fd3-acef-04880bbe9f36)
+
+Project Management
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f5701d19-6024-40f7-baea-cf3d2f6c3da0)
+
+dialog.h
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/63b9dd5a-8f94-4b10-9b55-8cd1e1c68f7a)
+
+dialog.cpp
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/a44c3de5-8770-478f-bcfb-6b2f26e82235)
 
 ## ⛹️‍♂️ Lab - Signal and Slots
 
