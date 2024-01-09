@@ -100,6 +100,30 @@ Build your Qt application by pressing Ctrl+B
 Run your Qt application by pressing Ctrl+R
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/cbf0204a-b6cb-4541-88c2-02b671e33609)
 
+## Lab - Horizontal Box Layout
+Create a new project of type Qt widget applicaiton 
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
+
+Project Location
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/fe1fd6f9-430c-4ee4-af33-1617e0f83113)
+
+Define Build System
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/eaadc80e-5b79-4b93-8a61-f9d0fc4ba3bb)
+
+Class Information
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/8fbdd063-74a9-4e6d-8e8b-7b98dc52e5f2)
+
+Translation File
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/f3e12165-b32c-454a-ae8a-c89241d669e4)
+
+Kit Selection
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/05f12fd5-744f-44b0-b266-869a4f6f9706)
+
+Project Management
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/959d4416-c3bb-4915-bb4b-c9147bb842de)
+
+
+
 ## ⛹️‍♂️ Lab - Signal and Slots
 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/c6b7fb2e-5fcb-4c8c-9ab8-9a8b1d00c768)
