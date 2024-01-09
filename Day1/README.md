@@ -178,7 +178,7 @@ Build and Run your application
 
 ## ⛹️‍♂️ Lab - 
 This lab exercise will demonstrate, the features supported by Box Layout manager.  Actually, the QHBoxLayout and QVBoxLayout are just convenient classes with fixed orientation while Box Layout is their base class.
-![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3bbc0643-a75b-4437-8ad0-ef6ae8da7fa7)
+![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/3bbc0643-a75b-4437-8ad0-ef6ae8da7fa7)![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/51755315-a341-440b-8387-b8c607263714)
 
 Create a new project of type Qt widget applicaiton 
 ![image](https://github.com/tektutor/qt-jan-2024/assets/12674043/1de85943-764b-41de-b5cf-7220cb08c914)
