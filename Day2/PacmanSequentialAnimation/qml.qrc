@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>packman4.png</file>
+        <file>pacman1.png</file>
+        <file>pacman2.png</file>
+        <file>pacman3.png</file>
+    </qresource>
+</RCC>

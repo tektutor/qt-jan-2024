@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ElectricSwitch.qml</file>
+    </qresource>
+</RCC>

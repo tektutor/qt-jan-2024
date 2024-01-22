@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Beach-Sunset-Wallpaper-e1649547008469.jpg</file>
+    </qresource>
+</RCC>
