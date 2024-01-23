@@ -28,3 +28,28 @@ Example
 - Your office with multiple network printers
 - Your office building with multiple lifts
 
+## Assignment 
+
+Assume you have 3 Gardeners (Each Garderner you could assume as a Thread )
+<pre>
+Gardener 1 - Specialized in Digging a Pit
+Gardener 2 - Specialized in Planting a sapling(plant)
+Gardener 3 - Specialized in filling the pit with sappling and watering the plant
+</pre>
+
+Given some 50 saplings(plants), they are supposed plant 50 saplings in a synchronized fashion.
+
+What challenges you see?
+<pre>
+What is the relationship/dependency between Gardener 1 and Gardener 2?
+What is the relationship/dependency between Gardener 2 and Gardener 3?
+What is the relationship/dependency between Gardener 3 and Gardener 1?
+Which type of synchronization you will be using in this scenario?
+</pre>
+
+Hint
+<pre>
+You could use QWaitCondition and QMutex  
+</pre>
+
+
