@@ -30,6 +30,7 @@ private slots:
     void onStartThreadButtonClicked();
     void onStopThreadButtonClicked();
     void onExitAppButtonClicked();
+    void onTabSwitched(int);
 
 public:
     MainDlg(QWidget *parent = nullptr);

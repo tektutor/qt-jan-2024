@@ -60,6 +60,12 @@ MainDlg::MainDlg(QWidget *parent)
         SLOT ( onExitAppButtonClicked()  )
     );
 
+    connect (
+        pTabWidget,
+        SIGNAL(currentChanged(int)),
+        this,
+        SLOT(onTabSwitched(int))
+    );
 
     pStartBttn->setEnabled(false);
     pStopBttn->setEnabled(false);
@@ -92,6 +98,8 @@ void MainDlg::onNewThreadButtonClicked() {
         pThreadDlg,
         SLOT( onThreadStopped(QString) )
         );
+
+
 
     int count = pTabWidget->count();
 
@@ -129,6 +137,10 @@ void MainDlg::onExitAppButtonClicked() {
 
     QDialog::close();
 
+}
+
+void MainDlg::onTabSwitched(int tabIndex) {
+    qDebug() << "Switched to tab " << tabIndex;
 }
 
 MainDlg::~MainDlg() {}

@@ -23,7 +23,6 @@ public:
 public slots:
     void onThreadStarted(QString);
     void onThreadStopped(QString);
-
     void onThreadMessage(QString,QString);
 };
 

@@ -17,6 +17,7 @@ ThreadDlg::ThreadDlg(QString name) {
         this,
         SLOT( onThreadMessage(QString,QString))
     );
+
 }
 
 void ThreadDlg::onThreadStarted(QString threadName) {
@@ -51,5 +52,7 @@ void ThreadDlg::onThreadStopped(QString threadName) {
         running = false;
     }
 }
+
+
 
 
