@@ -47,5 +47,9 @@ What is the relationship/dependency between Gardener 3 and Gardener 1?
 Which type of synchronization you will be using in this scenario?
 </pre>
 
+Hint
+<pre>
+You could use QWaitCondition and QMutex  
+</pre>
 
 
