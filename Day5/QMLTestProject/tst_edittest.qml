@@ -27,6 +27,8 @@ TestCase {
 
         mouseClick(edit)
 
+
+
         verify(
             edit.value === editValueAfterMouseClick,
             "Edit qml widget should be " + editValueAfterMouseClick
